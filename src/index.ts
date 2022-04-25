@@ -1,6 +1,6 @@
 import express from 'express';
 
-// Pruebas Testing Branch "Testing"
+// Testing Branch "Testing"
 const app = express();
 app.use(express.json());
 
